@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyGroupPlugin", "CopyGroupPlugin\CopyGroupPlugin.csproj", "{CFB5F34B-EB64-4093-B62F-0D22DBD13668}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFB5F34B-EB64-4093-B62F-0D22DBD13668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB5F34B-EB64-4093-B62F-0D22DBD13668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB5F34B-EB64-4093-B62F-0D22DBD13668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB5F34B-EB64-4093-B62F-0D22DBD13668}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC7BCF2B-828F-4614-B2F0-EDA677C402A4}
+	EndGlobalSection
+EndGlobal
